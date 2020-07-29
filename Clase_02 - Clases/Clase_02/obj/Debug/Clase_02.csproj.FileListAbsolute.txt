@@ -1,0 +1,11 @@
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\bin\Debug\Clase_02.exe.config
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\bin\Debug\Clase_02.exe
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\bin\Debug\Clase_02.pdb
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\obj\Debug\Clase_02.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\obj\Debug\Clase_02.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\obj\Debug\Clase_02.exe
+E:\Segundo cuatrimestre - C#\Clase_02\Clase_02\obj\Debug\Clase_02.pdb
+F:\Segundo cuatrimestre - C#\Clase_02 - Clases\Clase_02\obj\Debug\Clase_02.csprojAssemblyReference.cache
+F:\Segundo cuatrimestre - C#\Clase_02 - Clases\Clase_02\obj\Debug\Clase_02.csproj.CoreCompileInputs.cache
+F:\Segundo cuatrimestre - C#\Clase_02 - Clases\Clase_02\obj\Debug\Clase_02.exe
+F:\Segundo cuatrimestre - C#\Clase_02 - Clases\Clase_02\obj\Debug\Clase_02.pdb

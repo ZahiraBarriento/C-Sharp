@@ -1,0 +1,10 @@
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\bin\Debug\FmrTest2.exe.config
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\bin\Debug\FmrTest2.exe
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\bin\Debug\FmrTest2.pdb
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.FrmTest2.resources
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.exe
+E:\Segundo cuatrimestre - C#\Clase_22 - Eventos\FmrTest2\obj\Debug\FmrTest2.pdb

@@ -1,0 +1,6 @@
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\Entidades\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\Entidades\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\Entidades\obj\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\Entidades\obj\Debug\Entidades.pdb

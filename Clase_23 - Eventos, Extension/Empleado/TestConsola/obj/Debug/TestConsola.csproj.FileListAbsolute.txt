@@ -1,0 +1,10 @@
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\bin\Debug\TestConsola.exe.config
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\bin\Debug\TestConsola.exe
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\bin\Debug\TestConsola.pdb
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\obj\Debug\TestConsola.exe
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestConsola\obj\Debug\TestConsola.pdb

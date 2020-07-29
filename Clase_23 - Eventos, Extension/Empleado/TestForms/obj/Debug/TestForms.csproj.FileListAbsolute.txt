@@ -1,0 +1,13 @@
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\bin\Debug\TestForms.exe.config
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\bin\Debug\TestForms.exe
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\bin\Debug\TestForms.pdb
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.FrmEmpleado.resources
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.exe
+E:\Segundo cuatrimestre - C#\Clase_23 -\TestForms\obj\Debug\TestForms.pdb

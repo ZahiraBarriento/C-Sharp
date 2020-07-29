@@ -1,0 +1,10 @@
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\bin\Debug\TestHumano.exe.config
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\bin\Debug\TestHumano.exe
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\bin\Debug\TestHumano.pdb
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\bin\Debug\Entidades.dll
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\bin\Debug\Entidades.pdb
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\obj\Debug\TestHumano.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\obj\Debug\TestHumano.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\obj\Debug\TestHumano.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\obj\Debug\TestHumano.exe
+E:\Segundo cuatrimestre - C#\Clase_18 - Entidades\TestHumano\obj\Debug\TestHumano.pdb

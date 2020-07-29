@@ -1,0 +1,5 @@
+D:\VisualStudio\Clase_17 - Autos\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Clase_17 - Autos\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Clase_17 - Autos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase_17 - Autos\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Clase_17 - Autos\Entidades\obj\Debug\Entidades.pdb

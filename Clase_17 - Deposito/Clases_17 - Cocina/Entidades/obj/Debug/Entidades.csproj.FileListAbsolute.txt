@@ -1,0 +1,6 @@
+D:\VisualStudio\Clases_17 - Cocina\Entidades\bin\Debug\Entidades.dll
+D:\VisualStudio\Clases_17 - Cocina\Entidades\bin\Debug\Entidades.pdb
+D:\VisualStudio\Clases_17 - Cocina\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Clases_17 - Cocina\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clases_17 - Cocina\Entidades\obj\Debug\Entidades.dll
+D:\VisualStudio\Clases_17 - Cocina\Entidades\obj\Debug\Entidades.pdb

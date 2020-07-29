@@ -1,0 +1,14 @@
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\bin\Debug\WindowsForms-Tempera.Paleta.exe.config
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\bin\Debug\WindowsForms-Tempera.Paleta.exe
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\bin\Debug\WindowsForms-Tempera.Paleta.pdb
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms-Tempera.Paleta.csprojAssemblyReference.cache
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms_Tempera.Paleta.FrmPaleta.resources
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms_Tempera.Paleta.FrmTempera.resources
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms_Tempera.Paleta.Properties.Resources.resources
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms-Tempera.Paleta.csproj.GenerateResource.cache
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms-Tempera.Paleta.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms-Tempera.Paleta.csproj.CopyComplete
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms-Tempera.Paleta.exe
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\obj\Debug\WindowsForms-Tempera.Paleta.pdb
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\bin\Debug\Tempera.dll
+D:\VisualStudio\Barriento.Zahira\WindowsForms-Tempera.Paleta\bin\Debug\Tempera.pdb

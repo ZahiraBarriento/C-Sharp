@@ -1,0 +1,9 @@
+D:\VisualStudio\Clase_17 - Todo\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+D:\VisualStudio\Clase_17 - Todo\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+D:\VisualStudio\Clase_17 - Todo\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+D:\VisualStudio\Clase_17 - Todo\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Clase_17 - Todo\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase_17 - Todo\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+D:\VisualStudio\Clase_17 - Todo\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+D:\VisualStudio\Clase_17 - Todo\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+D:\VisualStudio\Clase_17 - Todo\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

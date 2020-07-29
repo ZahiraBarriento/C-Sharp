@@ -1,0 +1,10 @@
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\bin\Debug\Clase_09_test.exe.config
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\bin\Debug\Clase_09_test.exe
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\bin\Debug\Clase_09_test.pdb
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\bin\Debug\Clase_09.dll
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\bin\Debug\Clase_09.pdb
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\obj\Debug\Clase_09_test.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\obj\Debug\Clase_09_test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\obj\Debug\Clase_09_test.csproj.CopyComplete
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\obj\Debug\Clase_09_test.exe
+E:\Segundo cuatrimestre - C#\Clase_09 - Herencia(Vehiculos)\Clase_09_test\obj\Debug\Clase_09_test.pdb

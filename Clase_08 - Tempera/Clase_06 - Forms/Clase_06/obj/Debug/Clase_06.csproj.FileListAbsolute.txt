@@ -1,0 +1,12 @@
+D:\VisualStudio\Barriento.Zahira\Tempera\bin\Debug\Tempera.dll
+D:\VisualStudio\Barriento.Zahira\Tempera\bin\Debug\Tempera.pdb
+D:\VisualStudio\Barriento.Zahira\Tempera\obj\Debug\Clase_06.csprojAssemblyReference.cache
+D:\VisualStudio\Barriento.Zahira\Tempera\obj\Debug\Clase_06.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Barriento.Zahira\Tempera\obj\Debug\Tempera.dll
+D:\VisualStudio\Barriento.Zahira\Tempera\obj\Debug\Tempera.pdb
+E:\Barriento.Zahira\Tempera\obj\Debug\Clase_06.csprojAssemblyReference.cache
+E:\Barriento.Zahira\Tempera\obj\Debug\Clase_06.csproj.CoreCompileInputs.cache
+E:\Barriento.Zahira\Tempera\obj\Debug\Tempera.dll
+E:\Barriento.Zahira\Tempera\obj\Debug\Tempera.pdb
+E:\Barriento.Zahira\Tempera\bin\Debug\Tempera.dll
+E:\Barriento.Zahira\Tempera\bin\Debug\Tempera.pdb

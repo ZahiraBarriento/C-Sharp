@@ -1,0 +1,7 @@
+E:\Segundo cuatrimestre\Clase_01\Formatos\bin\Debug\Formatos.exe.config
+E:\Segundo cuatrimestre\Clase_01\Formatos\bin\Debug\Formatos.exe
+E:\Segundo cuatrimestre\Clase_01\Formatos\bin\Debug\Formatos.pdb
+E:\Segundo cuatrimestre\Clase_01\Formatos\obj\Debug\Formatos.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre\Clase_01\Formatos\obj\Debug\Formatos.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre\Clase_01\Formatos\obj\Debug\Formatos.exe
+E:\Segundo cuatrimestre\Clase_01\Formatos\obj\Debug\Formatos.pdb

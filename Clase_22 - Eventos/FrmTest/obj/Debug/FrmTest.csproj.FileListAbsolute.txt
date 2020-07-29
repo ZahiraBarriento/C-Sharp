@@ -1,0 +1,10 @@
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\bin\Debug\Clase_22 - FrmTest.exe.config
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\bin\Debug\Clase_22 - FrmTest.exe
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\bin\Debug\Clase_22 - FrmTest.pdb
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\FrmTest.csprojAssemblyReference.cache
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\Clase_22___FrmTest.FrmTest.resources
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\Clase_22___FrmTest.Properties.Resources.resources
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\FrmTest.csproj.GenerateResource.cache
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\FrmTest.csproj.CoreCompileInputs.cache
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\Clase_22 - FrmTest.exe
+E:\Segundo cuatrimestre - C#\Clase_22 - FrmTest\Clase_22 - FrmTest\obj\Debug\Clase_22 - FrmTest.pdb
